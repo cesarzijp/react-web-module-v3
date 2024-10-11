@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/losstaande-ai-client-v3n/static/js/main.2cda7418.js",
+    "main.js": "/losstaande-ai-client-v3n/static/js/main.7457def1.js",
     "static/media/blurbg.jpg": "/losstaande-ai-client-v3n/static/media/blurbg.323b251d0e19b0d9b5be.jpg",
     "index.html": "/losstaande-ai-client-v3n/index.html",
-    "main.2cda7418.js.map": "/losstaande-ai-client-v3n/static/js/main.2cda7418.js.map"
+    "main.7457def1.js.map": "/losstaande-ai-client-v3n/static/js/main.7457def1.js.map"
   },
   "entrypoints": [
-    "static/js/main.2cda7418.js"
+    "static/js/main.7457def1.js"
   ]
 }
